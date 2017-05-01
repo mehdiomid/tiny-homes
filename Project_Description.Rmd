@@ -1,7 +1,5 @@
 ---
-title: "The Data Incubator Project Proposal"
 date: "April 30, 2017"
-output: html_document
 ---
 
 

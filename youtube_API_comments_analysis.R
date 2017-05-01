@@ -1,7 +1,7 @@
 playlistid <- "PL07EC797A2E900CFC"
 #
 # Your API key obtained via https://console.developers.google.com/ 
-API_key='AIzaSyAMIw0Db21b3yT66oEsPRDBTA7mr7ABzQg'
+API_key='NOT SHOWN HERE'
 #
 # Load the necessary packages
 require(curl)
